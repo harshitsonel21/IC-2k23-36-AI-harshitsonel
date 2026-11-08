@@ -1,0 +1,8 @@
+$ python pca_svd.py
+
+Original shape: (100, 5)
+Reduced shape: (100, 2)
+Explained variance ratio: [0.41071543 0.21435621]
+Rank-2 reconstruction MSE: 0.37492835492097665
+
+[exit_code=0]
