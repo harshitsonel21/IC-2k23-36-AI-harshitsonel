@@ -1,0 +1,8 @@
+$ python search_algorithms.py
+
+BFS: path=['A', 'B', 'D', 'G'], time=0.00000903s
+DFS: path=['A', 'B', 'D', 'G'], time=0.00000552s
+Best First: path=['A', 'C', 'F', 'G'], time=0.00000850s
+A*: path=['A', 'B', 'E', 'G'], cost=7, time=0.00000972s
+
+[exit_code=0]
