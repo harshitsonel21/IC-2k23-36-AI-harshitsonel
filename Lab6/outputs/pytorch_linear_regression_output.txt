@@ -1,0 +1,12 @@
+$ python pytorch_linear_regression.py
+
+Epoch 100: loss=0.425534
+Epoch 200: loss=0.183400
+Epoch 300: loss=0.079043
+Epoch 400: loss=0.034067
+Epoch 500: loss=0.014682
+Learned weight: 3.0374391078948975
+Learned bias: 1.739355444908142
+Prediction for x=11: 35.151187896728516
+
+[exit_code=0]
