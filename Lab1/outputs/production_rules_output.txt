@@ -1,0 +1,6 @@
+$ python production_rules.py
+
+Facts: {'power': True, 'screen': False}
+Conclusions: ['Check the display connection.']
+
+[exit_code=0]

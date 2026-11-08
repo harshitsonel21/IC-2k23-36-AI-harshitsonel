@@ -1,0 +1,6 @@
+$ python water_jug.py
+
+State sequence (jug A, jug B):
+[(0, 0), (0, 3), (3, 0), (3, 3), (4, 2)]
+
+[exit_code=0]
