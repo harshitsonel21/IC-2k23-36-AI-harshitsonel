@@ -1,0 +1,12 @@
+$ python knowledge_representation.py
+
+Known facts:
+('Bird', 'can', 'LayEggs')
+('Bird', 'has', 'Wings')
+('Tweety', 'is_a', 'Bird')
+
+Inferred facts:
+('Tweety', 'can', 'LayEggs')
+('Tweety', 'has', 'Wings')
+
+[exit_code=0]
